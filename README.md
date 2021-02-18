@@ -21,5 +21,6 @@
 - Semantic HTML 5
 - Elegant design with CSS 3
 - U/I Best Practices
+<br>
 
 ![](https://raw.githubusercontent.com/Matthewpco/Jubilee-Design/master/img/JD-SS2.png)
