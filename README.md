@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Matthewpco/WordPress-Portfolio/master/img/WP-portfolio-ss1.png)
+![](https://raw.githubusercontent.com/Matthewpco/Jubilee-Design/master/img/JD-SS1.png)
 
 # This is a custom design site showcasing clean coding and elegant design.
 
@@ -21,3 +21,5 @@
 - Semantic HTML 5
 - Elegant design with CSS 3
 - U/I Best Practices
+
+![](https://raw.githubusercontent.com/Matthewpco/Jubilee-Design/master/img/JD-SS2.png)
