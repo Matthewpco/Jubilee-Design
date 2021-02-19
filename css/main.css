@@ -182,3 +182,19 @@ header span {
 #contact ul img {
     padding-right: 20px;
 }
+
+/***** RESPONSIVENESS *****/
+
+@media (max-width: 1000px) {
+    header {
+        width: fit-content;
+    }
+
+    #work {
+        width: fit-content;
+    }
+
+    #contact {
+        width: fit-content;
+    }
+}
