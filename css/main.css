@@ -185,7 +185,7 @@ header span {
 
 /***** RESPONSIVENESS *****/
 
-@media (max-width: 1000px) {
+@media (max-width: 1199px) {
     header {
         width: fit-content;
     }
